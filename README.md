@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ### 📖 About Me
 
 I am a **Data Science & Engineering** student at **IISER Bhopal**.  
@@ -37,6 +36,7 @@ and my nights trying to align my sleep schedule.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,latex&theme=dark" />
 
+If Attention is all you need, the python is all i have
 </div>
 
 | **Layer** | **Weights & Biases** |
