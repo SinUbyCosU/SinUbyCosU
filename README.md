@@ -77,7 +77,7 @@ Things I am not sure are for a Github readme:
   
 <br />
 
-> *"I am so deeply under-qualified for my life."*
+> “I can’t tell you how thankful I am for our little infinity.” – John Green
 
 
 
