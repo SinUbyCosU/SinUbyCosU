@@ -27,8 +27,7 @@ and my nights trying to align my sleep schedule.
 - Mechanistic Interpretability  
 - Representation geometry in code-mixed settings  
 
-🧠 In short: I perform surgery on neural networks to understand  
-why they hallucinate in **Hindi**.
+🧠 In short: My new found intrest is peeking inside models but from a multilingual lens
 
 ---
 
