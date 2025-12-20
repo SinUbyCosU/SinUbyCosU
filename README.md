@@ -60,15 +60,27 @@ why they hallucinate in **Hindi**.
 </div>
 
 ---
+### 🧬 Contribution Flow (The Training Loss)
 
 <div align="center">
-  <img src="https://github.com/SinUbyCosU/SinUbyCosU/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="snake-contribution-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinUbyCosU&theme=dracula&bg_color=282a36&hide_border=true&area=true" width="100%" />
+</div>
+---
 </div>
 
----
+<br />
 
-> *“I am so deeply under-qualified for my life.”*  
-> — John Green, *Turtles All the Way Down*
+### 🎲 Random
+Things I am not sure are for Github repo:
+* **Anomalous Diet:** I unironically love **Paneer Sushi**. (Please do not file a bug report; it’s a feature).
+* **The Input Stream:** Reading fiction is my primary method of garbage collection.
+* **Target Destination:** I dream of visiting places where the gradient is steep and the WiFi is non-existent—specifically the **rugged mountains of Afghanistan and lakes that are blue**.
+  
+<br />
+
+> *"I am so deeply under-qualified for my life."*
+
+
 
 <!--
 **SinUbyCosU/SinUbyCosU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
