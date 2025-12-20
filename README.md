@@ -36,7 +36,7 @@ and my nights trying to align my sleep schedule.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,latex&theme=dark" />
 
-If Attention is all you need, the python is all i have
+If Attention is all you need, then python is all i have
 </div>
 
 | **Layer** | **Weights & Biases** |
