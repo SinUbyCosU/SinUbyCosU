@@ -73,7 +73,7 @@ If Attention is all you need, then python is all i have
 Things I am not sure are for a Github readme:
 * **Anomalous Diet:** I unironically love **Paneer Sushi**. (Please do not file a bug report; it’s a feature).
 * **The Input Stream:** Reading fiction is my primary method of garbage collection.
-* **Target Destination:** I dream of visiting places where the gradient is steep and the WiFi is non-existent—specifically the **rugged mountains of Afghanistan and lakes that are blue**.
+* **Target Destination:** I dream of visiting places where the gradient is steep and the WiFi is non-existent,specifically the **rugged mountains of Afghanistan and lakes that are blue**.
   
 <br />
 
