@@ -51,20 +51,10 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 
 ---
 
-### 📉 Metrics (The Training Loss)
+### 🧬 Contribution Flow (The Training Loss)
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SinUbyCosU&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SinUbyCosU&theme=dracula&bg_color=282a36&hide_border=true&area=true" width="100%" />
-
-<br/>
-
-<img src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinUbyCosU&theme=dracula&bg_color=282a36&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
