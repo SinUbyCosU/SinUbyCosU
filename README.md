@@ -48,16 +48,7 @@ If Attention is all you need, then python is all i have
 
 ---
 
-### 📉 Evaluation Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SinUbyCosU&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinUbyCosU&layout=compact&theme=dracula&hide_border=true" height="160"/>
-
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SinUbyCosU&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 ---
 ### 🧬 Contribution Flow (The Training Loss)
 
