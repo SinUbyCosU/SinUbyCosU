@@ -51,13 +51,7 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 
 ---
 
-### 🧬 Contribution Flow (The Training Loss)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinUbyCosU&theme=dracula&bg_color=282a36&hide_border=true&area=true" width="100%" />
-</div>
-
----
 
 ### 🎲 Random
 
