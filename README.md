@@ -22,9 +22,11 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 ### 🧪 Research (Gradient Descent into Madness)
 
 🔬 **Focus Areas**
-- Multilingual Safety in LLMs  
+- Multilingual Safety in LLMs
+- Computer Vision  
 - Mechanistic Interpretability  
-- Representation geometry in code-mixed settings  
+- Representation geometry in code-mixed settings
+
 
 🧠 **In short:** My newfound interest is peeking inside models, but from a multilingual lens.
 
