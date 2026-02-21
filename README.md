@@ -55,7 +55,7 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 
 
 
-### 🎲 Random
+###  Random
 
 Things I am not sure are for a Github readme:
 * **Anomalous Diet:** I unironically love **Paneer Sushi**. (Please do not file a bug report; it’s a feature).
