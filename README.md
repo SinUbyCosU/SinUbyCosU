@@ -32,7 +32,7 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 
 ---
 
-### 🛠 Vector Space (Tech Stack)
+###  Vector Space (Tech Stack)
 
 <div align="center">
 
