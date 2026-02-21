@@ -19,7 +19,7 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 
 ---
 
-### 🧪 Research (Gradient Descent into Madness)
+###  Research (Gradient Descent into Madness)
 
 🔬 **Focus Areas**
 - Multilingual Safety in LLMs
