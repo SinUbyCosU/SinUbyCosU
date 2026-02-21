@@ -21,7 +21,7 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 
 ###  Research (Gradient Descent into Madness)
 
-🔬 **Focus Areas**
+ **Focus Areas**
 - Multilingual Safety in LLMs
 - Computer Vision  
 - Mechanistic Interpretability  
