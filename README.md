@@ -12,7 +12,7 @@
 
 ---
 
-### 📖 About Me
+###  About Me
 
 I am a **Data Science & Engineering** student at **IISER Bhopal**.  
 I spend my days aligning high-dimensional latent spaces and my nights trying to align my sleep schedule.
