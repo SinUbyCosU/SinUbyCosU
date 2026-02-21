@@ -28,7 +28,7 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 - Representation geometry in code-mixed settings
 
 
-🧠 **In short:** My newfound interest is peeking inside models, but from a multilingual lens.
+ **In short:** My newfound interest is peeking inside models, but from a multilingual lens.
 
 ---
 
