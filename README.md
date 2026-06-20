@@ -42,6 +42,7 @@ I spend my days aligning high-dimensional latent spaces and my nights trying to 
 <i>"If Attention is all you need, then Python is all I have."</i>
 <br/><br/>
 
+
 | **Layer** | **Weights & Biases** |
 |:---------:|:---------------------|
 | **Frameworks** | PyTorch, TensorFlow, Hugging Face |
